@@ -2,7 +2,8 @@
 
 This is a simple number sorting quiz app with three components: QuizGame, Correct, and Wrong.
 
-#Active link
+# Active link
+
 https://number-sorting-quiz.netlify.app/
 
 ## Usage
