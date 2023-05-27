@@ -2,6 +2,9 @@
 
 This is a simple number sorting quiz app with three components: QuizGame, Correct, and Wrong.
 
+#Active link
+https://number-sorting-quiz.netlify.app/
+
 ## Usage
 
 1. When the app is started, the QuizGame component is rendered. In this component, the user is presented with five random numbers each time.
